@@ -1,0 +1,15 @@
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SwarmAthon.Core.Interfaces.dll
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SwarmAthon.Core.Interfaces.pdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SimpleInjector.dll
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SimpleInjector.xml
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.dll
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.pdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.csprojResolveAssemblyReference.cache
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\obj\Debug\SwarmAthon.Core.Interfaces.dll.mdb
+C:\JustEAT\SwarmAthon\SwarmAthon.Core.Interfaces\bin\Debug\SwarmAthon.Core.Interfaces.dll.mdb

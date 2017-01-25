@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{4206689E-5219-46E0-BBDE-E0E062484A4D}|Default">
+  <MonoDevelop.Ide.ItemProperties.SwarmAthon.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwarmAthon.Services.Implementation/ServicesIoCRegister.cs">
+    <Files>
+      <File FileName="SwarmAthon/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SwarmAthon.Core.Interfaces/Models/ITestVersion.cs" Line="5" Column="31" />
+      <File FileName="SwarmAthon.Core.Interfaces/Models/ITestCase.cs" Line="8" Column="29" />
+      <File FileName="SwarmAthon.Core.Interfaces/Models/TestVersionState.cs" Line="5" Column="10" />
+      <File FileName="SwarmAthon.Core.Interfaces/SwarmAthon.Core.Models/TestCase.cs" Line="16" Column="1" />
+      <File FileName="SwarmAthon.Core.Interfaces/SwarmAthon.Core.Models/TestVersion.cs" Line="21" Column="1" />
+      <File FileName="SwarmAthon.Core.Interfaces/Services/ITestVersionService.cs" Line="9" Column="3" />
+      <File FileName="SwarmAthon.Services.Implementation/TestVersionService.cs" Line="8" Column="2" />
+      <File FileName="SwarmAthon.Core.Interfaces/DataServices/ITestVersionLocalDataService.cs" Line="1" Column="50" />
+      <File FileName="SwarmAthon.Core.Interfaces/DataServices/ITestVersionOnlineDataService.cs" Line="4" Column="3" />
+      <File FileName="SwarmAthon.Services.Implementation/ServicesIoCRegister.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

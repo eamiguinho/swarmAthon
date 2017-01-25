@@ -1,0 +1,1 @@
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon.Core.Interfaces/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs

@@ -1,0 +1,17 @@
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarAthon.DataService.Local.dll
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarAthon.DataService.Local.pdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SimpleInjector.dll
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarmAthon.Core.Interfaces.dll
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarmAthon.Core.Interfaces.pdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SimpleInjector.xml
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.csprojResolveAssemblyReference.cache
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.dll
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.pdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\obj\Debug\SwarAthon.DataService.Local.dll.mdb
+C:\JustEAT\SwarmAthon\SwarAthon.DataService.Local\bin\Debug\SwarAthon.DataService.Local.dll.mdb

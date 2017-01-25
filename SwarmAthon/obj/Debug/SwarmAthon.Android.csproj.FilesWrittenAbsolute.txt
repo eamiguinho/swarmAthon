@@ -1,0 +1,17 @@
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/MonoAndroid,Version=v7.1.AssemblyAttribute.cs
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/bin/Debug/SwarmAthon.dll.mdb
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/bin/Debug/SwarmAthon.dll
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/bin/Debug/com.ppd.swarmathon.apk
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/android/bin/com.ppd.swarmathon.apk
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/layout/main.xml
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/values/strings.xml
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/R.cs.flag
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/bin/Debug/com.ppd.swarmathon-Signed.apk
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/uploadflags.txt
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/SwarmAthon.dll
+/Users/emanuel.amiguinho/Projects/SwarmAthon/SwarmAthon/obj/Debug/SwarmAthon.dll.mdb
