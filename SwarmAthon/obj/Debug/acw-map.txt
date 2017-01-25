@@ -1,8 +1,0 @@
-SwarmAthon.MyApplication, SwarmAthon;md56cfa21b933b75638ae97318fbc1a9932.MyApplication
-SwarmAthon.MyApplication, SwarmAthon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56cfa21b933b75638ae97318fbc1a9932.MyApplication
-SwarmAthon.MyApplication;md56cfa21b933b75638ae97318fbc1a9932.MyApplication
-swarmathon.MyApplication;md56cfa21b933b75638ae97318fbc1a9932.MyApplication
-SwarmAthon.MainActivity, SwarmAthon;md56cfa21b933b75638ae97318fbc1a9932.MainActivity
-SwarmAthon.MainActivity, SwarmAthon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56cfa21b933b75638ae97318fbc1a9932.MainActivity
-SwarmAthon.MainActivity;md56cfa21b933b75638ae97318fbc1a9932.MainActivity
-swarmathon.MainActivity;md56cfa21b933b75638ae97318fbc1a9932.MainActivity

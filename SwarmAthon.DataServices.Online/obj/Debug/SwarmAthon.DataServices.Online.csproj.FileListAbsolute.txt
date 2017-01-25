@@ -11,3 +11,14 @@ C:\JustEAT\SwarmAthon\SwarmAthon.DataServices.Online\bin\Debug\Newtonsoft.Json.d
 C:\JustEAT\SwarmAthon\SwarmAthon.DataServices.Online\bin\Debug\Newtonsoft.Json.xml
 C:\JustEAT\SwarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.dll.mdb
 C:\JustEAT\SwarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SwarmAthon.DataServices.Online.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SwarmAthon.DataServices.Online.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SwarmAthon.DataServices.Online.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\Newtonsoft.Json.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SimpleInjector.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SwarmAthon.Core.Interfaces.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SwarmAthon.Core.Interfaces.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\Newtonsoft.Json.xml
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SimpleInjector.xml
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.csprojResolveAssemblyReference.cache
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.pdb

@@ -9,5 +9,12 @@ C:\JustEAT\SwarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.Core.Interfa
 C:\JustEAT\SwarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SimpleInjector.xml
 C:\JustEAT\SwarmAthon\SwarmAthon.UI.ViewModels\obj\Debug\SwarmAthon.UI.ViewModels.dll.mdb
 C:\JustEAT\SwarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.UI.ViewModels.dll.mdb
-C:\JustEAT\SwarmAthon\SwarmAthon.UI.ViewModels\obj\Debug\SwarmAthon.UI.ViewModels.dll.mdb
-C:\JustEAT\SwarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.UI.ViewModels.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.UI.ViewModels.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.UI.ViewModels.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SimpleInjector.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.Core.Interfaces.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SwarmAthon.Core.Interfaces.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\bin\Debug\SimpleInjector.xml
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\obj\Debug\SwarmAthon.UI.ViewModels.csprojResolveAssemblyReference.cache
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\obj\Debug\SwarmAthon.UI.ViewModels.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.UI.ViewModels\obj\Debug\SwarmAthon.UI.ViewModels.pdb

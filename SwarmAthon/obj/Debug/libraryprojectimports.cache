@@ -2,13 +2,13 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\__library_projects__\Cheeseknife\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon\obj\Debug\__library_projects__\Cheeseknife\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\__library_projects__\Cheeseknife\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Cheeseknife\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\__library_projects__\Cheeseknife.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon\obj\Debug\__library_projects__\Cheeseknife.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

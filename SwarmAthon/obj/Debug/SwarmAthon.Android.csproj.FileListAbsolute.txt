@@ -74,4 +74,6 @@ C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\android\assets\System.ServiceModel.In
 C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\JustEAT\SwarmAthon\SwarmAthon\obj\Debug\SwarmAthon.dll.mdb
-C:\JustEAT\SwarmAthon\SwarmAthon\bin\Debug\SwarmAthon.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon\obj\Debug\SwarmAthon.Android.csprojResolveAssemblyReference.cache
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon\obj\Debug\SwarmAthon.dll
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon\obj\Debug\SwarmAthon.pdb
