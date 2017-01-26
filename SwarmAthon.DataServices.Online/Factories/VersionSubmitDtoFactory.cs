@@ -10,7 +10,7 @@ namespace SwarmAthon.DataServices.Online.Factories
         {
             var dto = new VersionSubmitDto();
             dto.User = UserDtoFactory.Create(currentUser);
-            dto.Cases = currentTestVersion.TestCases.Select(TestCaseDtoFactory.Create).ToList();
+            dto.Cases = currentTestVersion.TestCases.Select(TestCaseDtoFactory.CreateDto).ToList();
             return dto;
         }   
     }

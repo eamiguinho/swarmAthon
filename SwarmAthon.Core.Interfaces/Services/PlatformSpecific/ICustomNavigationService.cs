@@ -8,5 +8,6 @@ namespace SwarmAthon.Core.Interfaces.Services.PlatformSpecific
 {
     public interface ICustomNavigationService
     {
+        void NavigateToTestCase();
     }
 }

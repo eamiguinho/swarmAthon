@@ -22,3 +22,11 @@ C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\bin\Debug
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.csprojResolveAssemblyReference.cache
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.dll
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\bin\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\bin\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\bin\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\obj\Debug\SwarmAthon.Services.Implementation.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Services.Implementation\bin\Debug\SwarmAthon.Services.Implementation.dll.mdb

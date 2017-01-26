@@ -22,3 +22,5 @@ C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\Sim
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.csprojResolveAssemblyReference.cache
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.dll
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\obj\Debug\SwarmAthon.DataServices.Online.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.DataServices.Online\bin\Debug\SwarmAthon.DataServices.Online.dll.mdb

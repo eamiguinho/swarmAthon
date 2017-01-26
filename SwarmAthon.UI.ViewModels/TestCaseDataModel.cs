@@ -10,5 +10,8 @@ namespace SwarmAthon.UI.ViewModels
         {
             _model = testCase;
         }
+
+        public string Description { get { return _model.Title; } }
+        public ITestCase Model { get { return _model; } }
     }
 }

@@ -4,6 +4,6 @@
 	{
 		Passed,
 		Failed,
-		Incompleted
+		Incomplete
 	}
 }

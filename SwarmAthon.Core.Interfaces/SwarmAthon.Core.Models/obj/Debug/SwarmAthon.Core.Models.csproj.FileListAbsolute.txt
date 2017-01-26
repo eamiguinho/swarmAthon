@@ -18,3 +18,5 @@ C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Core.Interfaces\SwarmAthon.Core.M
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Core.Interfaces\SwarmAthon.Core.Models\obj\Debug\SwarmAthon.Core.Models.csprojResolveAssemblyReference.cache
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Core.Interfaces\SwarmAthon.Core.Models\obj\Debug\SwarmAthon.Core.Models.dll
 C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Core.Interfaces\SwarmAthon.Core.Models\obj\Debug\SwarmAthon.Core.Models.pdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Core.Interfaces\SwarmAthon.Core.Models\obj\Debug\SwarmAthon.Core.Models.dll.mdb
+C:\JustEAT\SwarmAthonGit\swarmAthon\SwarmAthon.Core.Interfaces\SwarmAthon.Core.Models\bin\Debug\SwarmAthon.Core.Models.dll.mdb

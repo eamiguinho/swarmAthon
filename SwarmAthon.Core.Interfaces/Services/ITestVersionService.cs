@@ -7,5 +7,7 @@ namespace SwarmAthon.Core.Interfaces.Services
 	{
 		Task<DataResult<ITestVersion>> GetTestsForCurrentVersion();
 	    void SubmitTest(ITestVersion currentTestVersion);
+	    void SetCurrentTestCase(ITestCase model);
+	    ITestCase GetCurrentTestCase();
 	}
 }

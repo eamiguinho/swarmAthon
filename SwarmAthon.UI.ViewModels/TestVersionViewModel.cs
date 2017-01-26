@@ -5,6 +5,7 @@ using System.Text;
 using SwarmAthon.Core.Interfaces;
 using SwarmAthon.Core.Interfaces.Models;
 using SwarmAthon.Core.Interfaces.Services;
+using SwarmAthon.Core.Interfaces.Services.PlatformSpecific;
 
 namespace SwarmAthon.UI.ViewModels
 {
@@ -12,12 +13,14 @@ namespace SwarmAthon.UI.ViewModels
     {
         private readonly ITestVersionService _testVersionService;
         private readonly IUserService _userService;
+        private readonly ICustomNavigationService _navigationService;
         private ObservableCollection<TestCaseDataModel> _testCases;
 
-        public TestVersionViewModel(ITestVersionService testVersionService, IUserService userService)
+        public TestVersionViewModel(ITestVersionService testVersionService, IUserService userService, ICustomNavigationService navigationService)
         {
-            _testVersionService = testVersionService;
+            _testVersionService = testVersionService;   
             _userService = userService;
+            _navigationService = navigationService;
         }
 
         public ITestVersion CurrentTestVersion { get; set; }
@@ -36,7 +39,7 @@ namespace SwarmAthon.UI.ViewModels
             if (tests.IsOk)
             {
                 CurrentTestVersion = tests.Data;
-                Title = tests.Data.Name;
+                Title = "Testing version " + tests.Data.Name;
                 foreach (var testCase in tests.Data.TestCases)
                 {
                     TestCases.Add(new TestCaseDataModel(testCase));
@@ -48,6 +51,12 @@ namespace SwarmAthon.UI.ViewModels
         public void TestCompleted()
         {
             _testVersionService.SubmitTest(CurrentTestVersion);
+        }
+
+        public void SetCurrentTestCaseAndNavigate(TestCaseDataModel item)
+        {
+            _testVersionService.SetCurrentTestCase(item.Model);
+            _navigationService.NavigateToTestCase();
         }
     }
 }
